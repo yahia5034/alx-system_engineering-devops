@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-New repository 
+the shebang to run the script #!bin/bash
